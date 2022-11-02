@@ -1,1 +1,2 @@
 Hello world!
+new string for test git commit without -m
